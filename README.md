@@ -1,3 +1,3 @@
 # InfinityGridScroll
 一个基于UGUI的无限循环scrollview
-在内部缓存一个数组，利用位移的方式来实现布局，不会有UGUI，layout方面消耗
+在内部缓存一个数组，利用位移的方式来实现布局，不会有UGUI在layout方面消耗
